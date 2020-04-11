@@ -107,7 +107,7 @@ body{
 <div class="text-center">
    <span id="fullyear">2015</span>
    &#169; Marslander Telecom. All Rights Reserved.<br>
-   | India | Singapore | UK | USA |
+   | India | Singapore | UK | USA | Australia
   </div>
   </form>
 </body>
